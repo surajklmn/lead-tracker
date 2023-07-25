@@ -17,7 +17,7 @@ You have two options to install the Lead Tracker Extension:
 
 ## Loading the Extension
 
-After obtaining the extension files on your local machine, follow these steps to load the Lead Tracker Chrome Extension:
+After obtaining the extension files on your local machine, follow these steps to load the Lead Tracker Extension:
 
 1. Open Google Chrome or any Chromium based browser and go to the **Extensions** page.
    - You can access this page by entering `chrome://extensions/` in the address bar and pressing **Enter**.
