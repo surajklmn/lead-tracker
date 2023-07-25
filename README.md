@@ -5,4 +5,7 @@
 Select *Load unpacked extension*  
 
 Om
-  
+
+![image](https://github.com/surajklmn/lead-tracker/assets/30106169/753a0dce-3c70-4f7e-a0ca-2151bc71d20d)
+
+![image](https://github.com/surajklmn/lead-tracker/assets/30106169/27436286-8197-4b24-bf36-cc5f6f3ea870)
