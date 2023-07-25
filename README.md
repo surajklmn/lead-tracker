@@ -1,4 +1,4 @@
-# Lead Tracker Chrome
+# Lead Tracker
 
 With this extension, you can easily organize your leads and keep track of important information related to potential customers or clients. (Basically stalking)
 
