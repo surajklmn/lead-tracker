@@ -1,10 +1,10 @@
-# Lead Tracker Chrome Extension
+# Lead Tracker Chrome
 
 With this extension, you can easily organize your leads and keep track of important information related to potential customers or clients. (Basically stalking)
 
 ## Installation
 
-You have two options to install the Lead Tracker Chrome Extension:
+You have two options to install the Lead Tracker Extension:
 
 1. Clone the repository:
    - Clone the repository using the following command:
