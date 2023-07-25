@@ -40,12 +40,9 @@ After obtaining the extension files on your local machine, follow these steps to
 Once the extension is installed and loaded, you can start using it to track leads.
  ![Select Folder](https://github.com/surajklmn/lead-tracker/assets/30106169/753a0dce-3c70-4f7e-a0ca-2151bc71d20d)
 ## Features
-
 - Add new leads with relevant details such as name, email, company, and notes.
-- Edit existing lead information to keep it up-to-date.
 - View all your leads in a well-organized list format.
 - Keep track of important interactions and notes for each lead.
-- Easily search for specific leads using the built-in search functionality.
 
 ## Feedback and Support
 
