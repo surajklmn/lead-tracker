@@ -31,14 +31,14 @@ After obtaining the extension files on your local machine, follow these steps to
 4. Navigate to the directory where you cloned or downloaded the Lead Tracker repository.
 
 5. Select the folder containing the extension files and click **"Select Folder"**.
-   ![Select Folder](https://github.com/surajklmn/lead-tracker/assets/30106169/753a0dce-3c70-4f7e-a0ca-2151bc71d20d)
+  
 
 6. The Lead Tracker Chrome Extension should now be loaded and ready to use.
 
 ## Getting Started
 
 Once the extension is installed and loaded, you can start using it to track leads.
-
+ ![Select Folder](https://github.com/surajklmn/lead-tracker/assets/30106169/753a0dce-3c70-4f7e-a0ca-2151bc71d20d)
 ## Features
 
 - Add new leads with relevant details such as name, email, company, and notes.
